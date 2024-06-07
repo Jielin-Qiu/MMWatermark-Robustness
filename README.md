@@ -22,7 +22,21 @@ If you feel our code or models helps in your research, kindly cite our paper:
 
 ## Getting Started
 
-In our study, we extensively use other codebases due to comprehensive benchmarking, thus unifying all of the different virtual environments was quite difficult.
+
+We generally recommend the following pipeline:
+
+1. Generate text and images utilizing multimodal models.
+2. Watermark generated text and images.
+3. Perturb watermarked text and images.
+4. Detect perturbed, watermarked text and image.
+
+We will now go a bit more in depthon how to do each step.
+
+
+## Environments
+
+
+In our study, we follow the existing codebases for comprehensive benchmarking.
 
 We recommend creating separate environments for each multimodal model and watermarking method. All perturbations (Text and Image) can be done through one environment.
 
@@ -60,14 +74,6 @@ We provide the link to all of the necessary repositorys for this project. Please
 
 
 
-We generally recommend the following pipeline:
-
-1. Generate text and images utilizing multimodal models.
-2. Watermark generated text and images.
-3. Perturb watermarked text and images.
-4. Detect perturbed, watermarked text and image.
-
-We will now go a bit more in depthon how to do each step.
 
 ## COCO Dataset
 
