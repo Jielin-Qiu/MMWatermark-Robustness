@@ -101,7 +101,7 @@ All watermarks are in the `watermark` directory. After setting up their respecti
 All perturbations are in the `perturbation` directory. After setting up the perturbation evironment from the `perturbations/MM_Robustness` repository, please proceed to perturb all of the watermarked images or text. Additionally, inside the `perturbation` directory, the `image_perturb.py` and `text_perturb.py` files contain all of the needed image and text perturbations for this study. 
 
 ## Detection
-Due to each watermarking method having their own way of detection we provide an example pipeline of detecting watermarks. Please view them to see examples of how to detect them. We also provide the calculation of the other metrics as well (e.g., ROUGE, PSNR, etc.).
+Due to each watermarking method having their own way of detection, we provide an example pipeline of detecting watermarks. Please view them to see examples of how to detect them. We also provide the calculation of the other metrics as well (e.g., ROUGE, PSNR, etc.).
 
 ## License
 
