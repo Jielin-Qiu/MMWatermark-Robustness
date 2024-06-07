@@ -9,7 +9,7 @@ More details can be found on the [project webpage](https://mmwatermark-robustnes
 
 ## Citation
 
-If you feel our code or models helps in your research, kindly cite our papers:
+If you feel our code or models helps in your research, kindly cite our paper:
 
 ```
 @inproceedings{Qiu2024EvaluatingDB,
