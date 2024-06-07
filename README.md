@@ -77,7 +77,7 @@ We provide the link to all of the necessary repositorys for this project. Please
 
 ## COCO Dataset
 
-Please download the COCO validation split we used in our study [here](https://drive.google.com/drive/folders/1DFl0xkPkkQshoTk-81ksQ-XNJRRrJVKy?usp=sharing).
+Please download the COCO validation split from [cocodataset](https://cocodataset.org/#home) or [here](https://drive.google.com/drive/folders/1DFl0xkPkkQshoTk-81ksQ-XNJRRrJVKy?usp=sharing).
 
 If for some reason there is a problem with the link, please download the [images](http://images.cocodataset.org/zips/val2017.zip) and [annotations](http://images.cocodataset.org/annotations/annotations_trainval2017.zip) from the official site.
 
